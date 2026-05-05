@@ -1,4 +1,4 @@
-<img width="1084" height="549" alt="JEJUM-DE-DANIEL_08" src="https://github.com/user-attachments/assets/c71abd63-266b-493c-9fad-c6739ff832af" />
+<img width="1084" height="549" alt="JEJUM-DE-DANIEL_08" src="https://github.com/user-attachments/assets/2fe23cf8-17d8-4ac4-b8a1-bd20d7936038" />
 <img width="1084" height="331" alt="JEJUM-DE-DANIEL_07" src="https://github.com/user-attachments/assets/94c20018-f4ec-47b3-8d32-afe08ac19eb4" />
 <img width="1084" height="683" alt="JEJUM-DE-DANIEL_06" src="https://github.com/user-attachments/assets/d43ceb43-3071-489f-b1f2-dc0bffbdcc85" />
 <img width="1084" height="697" alt="JEJUM-DE-DANIEL_05" src="https://github.com/user-attachments/assets/f028a571-fb4a-486d-84df-53a56030f134" />
